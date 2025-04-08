@@ -1,0 +1,5 @@
+streamlit
+openai
+google-api-python-client
+gspread
+oauth2client
