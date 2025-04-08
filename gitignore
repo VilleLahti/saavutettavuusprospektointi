@@ -1,0 +1,17 @@
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Google credentials (ei käytössä Streamlitissä mutta hyvä estää vahingot)
+credentials.json
+
+# Python-ympäristöt
+venv/
+.env
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpointit
+.ipynb_checkpoints
+
+# Macin järjestelmätiedostot
+.DS_Store
